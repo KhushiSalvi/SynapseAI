@@ -1,4 +1,4 @@
-Absolutely, madam. For **SynapseAI**, I'd make the README professional but not overly corporate:
+
 
 # SynapseAI – Intelligent Chat Backend with Decision Routing
 
@@ -165,5 +165,3 @@ Developed as part of **HackArena 2.0 at IIIT Delhi** by a 3-member team, with re
 * Add automated evaluation of routing accuracy and response quality
 
 ---
-
-**One important thing:** replace `<your-repository-url>` with your actual GitHub repo URL before pushing this README.
